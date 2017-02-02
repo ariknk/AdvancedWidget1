@@ -11,5 +11,8 @@
 ## Screenshot Aplikasi
 <p align="center">
   <img src="http://i66.tinypic.com/35bv7gz.jpg" width="350"/>
+  <img src="http://i65.tinypic.com/10cvh3o.jpg" width="350"/>
+</p>
+<p align="center">
   <img src="http://i65.tinypic.com/lwkeu.jpg" width="350"/>
 </p>
