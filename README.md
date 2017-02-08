@@ -9,9 +9,6 @@
 
 ## Screenshot Aplikasi
 <p align="center">
-  <img src="http://i66.tinypic.com/35bv7gz.jpg" width="350"/><br>
-  <img src="http://i65.tinypic.com/10cvh3o.jpg" width="350"/><br>
-</p>
-<p align="center">
-  <img src="http://i65.tinypic.com/lwkeu.jpg" width="350"/>
+  <img src="https://cloud.githubusercontent.com/assets/22126354/22718576/b9328882-edd3-11e6-9f85-4b9408141d62.jpeg" width="350"/><br>
+  <img src="https://cloud.githubusercontent.com/assets/22126354/22718577/b933ba68-edd3-11e6-840c-5c4b940c9a2f.jpeg" width="350"/><br>
 </p>
